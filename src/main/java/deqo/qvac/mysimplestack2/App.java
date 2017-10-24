@@ -4,10 +4,14 @@ package deqo.qvac.mysimplestack2;
  * Hello world!
  *
  */
-public class App 
+public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+       mySimpleStack<Integer> pile = new mySimpleStack<Integer>();
+
+       pile.push(4);
+        pile.push(2);
+        System.out.println(pile.toString());
     }
 }
