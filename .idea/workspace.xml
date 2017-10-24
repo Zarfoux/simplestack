@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c2f4d1b6-7ab8-48f6-a730-4e7ba4594690" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/deqo/qvac/mysimplestack2/App.class" afterPath="$PROJECT_DIR$/target/classes/deqo/qvac/mysimplestack2/App.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mysimplestack2-3.0.4-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/mysimplestack2-3.0.4-SNAPSHOT.jar" />
+    <list default="true" id="c2f4d1b6-7ab8-48f6-a730-4e7ba4594690" name="Default" comment="ajout">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java" afterPath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java" afterPath="$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-deqo.qvac.mysimplestack2.AppTest.xml" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-deqo.qvac.mysimplestack2.AppTest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/surefire-reports/deqo.qvac.mysimplestack2.AppTest.txt" afterPath="$PROJECT_DIR$/target/surefire-reports/deqo.qvac.mysimplestack2.AppTest.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -60,7 +53,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="85">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="19" />
+              <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#232#233#0" expanded="true" />
@@ -79,7 +72,7 @@
       <file leaf-file-name="mySimpleStackTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="742">
+            <state relative-caret-position="986">
               <caret line="58" column="22" lean-forward="false" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -486,7 +479,7 @@
       <updated>1508403277251</updated>
       <workItem from="1508403278872" duration="3807000" />
       <workItem from="1508824892034" duration="722000" />
-      <workItem from="1508825641671" duration="3444000" />
+      <workItem from="1508825641671" duration="4109000" />
     </task>
     <task id="LOCAL-00001" summary="ajout">
       <created>1508829063447</created>
@@ -502,7 +495,14 @@
       <option name="project" value="LOCAL" />
       <updated>1508829075125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ajout">
+      <created>1508829093942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1508829093942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -538,7 +538,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7973000" />
+    <option name="totallyTimeSpent" value="8638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -706,7 +706,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="19" />
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#232#233#0" expanded="true" />
@@ -723,7 +723,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="742">
+        <state relative-caret-position="986">
           <caret line="58" column="22" lean-forward="false" selection-start-line="58" selection-start-column="22" selection-end-line="58" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
