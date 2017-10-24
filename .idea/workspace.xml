@@ -2,88 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c2f4d1b6-7ab8-48f6-a730-4e7ba4594690" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/cobertura/cobertura.ser" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/findbugsXml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/cobertura.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/generated-classes/cobertura/deqo/qvac/mysimplestack2/App.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/checkstyle.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/css/help.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/css/sortabletable.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/css/source-viewer.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/css/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/deqo.qvac.mysimplestack2.App.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-packages.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles-deqo.qvac.mysimplestack2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-sourcefiles.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary-deqo.qvac.mysimplestack2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/frame-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/help.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/images/blank.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/images/downsimple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/images/upsimple.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/js/customsorttypes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/js/popup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/js/sortabletable.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/cobertura/js/stringbuilder.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/print.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/css/site.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependencies.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-convergence.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/dependency-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/findbugs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/close.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/external.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/images/rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugin-management.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/plugins.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-info.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-reports.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/project-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/allclasses-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/deqo/qvac/mysimplestack2/AppTest.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/deqo/qvac/mysimplestack2/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/deqo/qvac/mysimplestack2/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/overview-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/overview-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref-test/stylesheet.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/allclasses-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/deqo/qvac/mysimplestack2/App.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/deqo/qvac/mysimplestack2/package-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/deqo/qvac/mysimplestack2/package-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/overview-frame.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/overview-summary.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/target/site/xref/stylesheet.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/deqo/qvac/mysimplestack2/App.class" afterPath="$PROJECT_DIR$/target/classes/deqo/qvac/mysimplestack2/App.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/mysimplestack2-3.0.4-SNAPSHOT.jar" afterPath="$PROJECT_DIR$/target/mysimplestack2-3.0.4-SNAPSHOT.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysimplestack2.iml" afterPath="$PROJECT_DIR$/mysimplestack2.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/App.java" afterPath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/App.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java" afterPath="$PROJECT_DIR$/src/main/java/deqo/qvac/mysimplestack2/mySimpleStack.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java" afterPath="$PROJECT_DIR$/src/test/java/deqo/qvac/mysimplestack2/mySimpleStackTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
@@ -563,8 +486,16 @@
       <updated>1508403277251</updated>
       <workItem from="1508403278872" duration="3807000" />
       <workItem from="1508824892034" duration="722000" />
-      <workItem from="1508825641671" duration="3387000" />
+      <workItem from="1508825641671" duration="3425000" />
     </task>
+    <task id="LOCAL-00001" summary="ajout">
+      <created>1508829063447</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508829063447</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -600,7 +531,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7916000" />
+    <option name="totallyTimeSpent" value="7954000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -639,6 +570,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ajout" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
